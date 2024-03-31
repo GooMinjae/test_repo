@@ -8,3 +8,4 @@ test repository functions
 * Remote로 Push  
 ### 를 연습하기 위해 만들어졌습니다.
 * 두번째 수정
+* 연습 세번째 commit
